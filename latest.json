@@ -1,5 +1,6 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.2.0/Ministry-Stage-0.2.0.dmg",
-  "notes": "Slide control from a Bluetooth clicker, a menu bar icon, and a manual update check."
+  "version": "0.3.0",
+  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.3.0/Ministry-Stage-0.3.0.dmg",
+  "sha256": "8d35ef0a2c48ef1ed7545fb2bb1f8f135f0c928d3943105f0c3f52ef42bd8300",
+  "notes": "Quitting always asks first, Check for updates no longer freezes the room, Screen Recording is explained properly, and the guide is current."
 }

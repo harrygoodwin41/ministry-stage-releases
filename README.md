@@ -3,13 +3,34 @@
 **Sends your stage display to any tablet.**
 
 Local screen mirroring for the preacher's stage display, plus a congregation
-words page for the morning the projector dies.
-
-## Download
+words page for the morning the projector dies. Free, no account, and nothing
+about your church leaves your own network.
 
 **[Download Ministry Stage for macOS](../../releases/latest)**
 
-Open the disk image and drag Ministry Stage into your Applications folder.
+## What it does
+
+- **Mirrors the stage display to any tablet.** Full motion, sharp text, over
+  your own wifi. The tablet opens a web page: nothing to install on it.
+- **Approve a tablet once and it reconnects on its own.** After a wifi blip,
+  after someone switches apps, after the tablet sleeps, after the Mac restarts.
+  Nobody walks over to fix it mid-service.
+- **A built-in stage screen.** ProPresenter needs somewhere to send its stage
+  output. Ministry Stage can make that screen itself, so you do not need a second
+  monitor or a separate app for it.
+- **A words page for the congregation.** If the projector fails, anyone on the
+  wifi opens one address on their phone and sees the current slide's words,
+  large and clear, following the service as it goes. It copes with a couple of
+  hundred phones.
+- **Slide control from the tablet.** Next and previous buttons on the stage
+  tablet, and a Bluetooth clicker paired to the tablet drives ProPresenter. The
+  desk decides which tablets are allowed to.
+- **The desk sees the truth.** The operator window shows what each tablet is
+  actually getting, not what the Mac hopes, and says in plain words what to do
+  when something is wrong.
+- **A menu bar icon** with status at a glance and the settings you reach for
+  mid-service.
+- **Quality you can dial down** for a slow wifi, and up to four tablets at once.
 
 ## What you need
 
@@ -32,6 +53,7 @@ will not block it. You will still see a few prompts, which is normal:
    Allow it, then **quit Ministry Stage and open it again**: macOS only applies
    that permission on a fresh start.
 4. It may ask for **Local Network** access, which is how your tablet reaches it.
+   Allow that too.
 
 ## Where your data goes
 
@@ -45,15 +67,16 @@ small file from GitHub to see whether a newer version exists. That is a
 deliberate click, there is no background checking, and nothing about you is
 sent with it.
 
-Note that the pages your tablets and phones open are served over plain `http`
-on your local network, not `https`. Anyone already on your wifi could in
-principle see the words page. The stage picture itself is encrypted in transit.
+The pages your tablets and phones open are served over plain `http` on your
+local network, not `https`. Anyone already on your wifi could in principle see
+the words page. The stage picture itself is encrypted in transit.
 
 ## Setting it up
 
 The full guide is inside the app: **Help → Ministry Stage guide**. It covers
-pointing ProPresenter at the stage screen, setting up a tablet, reserving the
-Mac's address on your router, and a Sunday morning checklist.
+pointing ProPresenter at the stage screen, setting up a tablet, pairing a
+clicker, reserving the Mac's address on your router, and a Sunday morning
+checklist.
 
 ## Staying up to date
 
