@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.3.0/Ministry-Stage-0.3.0.dmg",
-  "sha256": "8d35ef0a2c48ef1ed7545fb2bb1f8f135f0c928d3943105f0c3f52ef42bd8300",
-  "notes": "Quitting always asks first, Check for updates no longer freezes the room, Screen Recording is explained properly, and the guide is current."
+  "version": "0.3.1",
+  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.3.1/Ministry-Stage-0.3.1.dmg",
+  "sha256": "99671793528f702e346cdfd837f4111118804ba190737a919e62d5f9dc081e3f",
+  "notes": "Choose the size and shape of the built-in stage display so it fills your tablet, including held upright. Pause mirroring so Sky, Netflix or the Apple TV app play on the Mac between services. After changing the shape, check your stage layout in ProPresenter."
 }
