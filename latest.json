@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.3.1/Ministry-Stage-0.3.1.dmg",
-  "sha256": "99671793528f702e346cdfd837f4111118804ba190737a919e62d5f9dc081e3f",
-  "notes": "Choose the size and shape of the built-in stage display so it fills your tablet, including held upright. Pause mirroring so Sky, Netflix or the Apple TV app play on the Mac between services. After changing the shape, check your stage layout in ProPresenter."
+  "version": "0.3.2",
+  "url": "https://github.com/harrygoodwin41/ministry-stage-releases/releases/download/v0.3.2/Ministry-Stage-0.3.2.dmg",
+  "sha256": "8d2c7c332faf0b97f5f27418b290275a3264dc1f39bd0b9102f1a70a93494042",
+  "notes": "The clicker now follows what is on the screens, not what the desk has lined up, so a press can no longer fire another presentation. Everyone using a clicker should update. Also: a tick box to keep the tablet's Next and Previous buttons showing, and the words page no longer reports a fault when the screen is cleared."
 }
